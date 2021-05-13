@@ -1,5 +1,5 @@
-decryption botnet source code
+decryption source code
 leaked by verism#0001
-twitter.com/inconvicts
+twitter.com/nonaffecting
 
 #turtlecorp gawdd
